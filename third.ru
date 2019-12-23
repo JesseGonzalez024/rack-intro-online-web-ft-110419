@@ -1,2 +1,2 @@
-require_relative './my_server'
+require_relative './application.rb'
 run MyServer.new
